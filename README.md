@@ -14,6 +14,6 @@ wikipedia assistant by python
 + or press F1 and then select/type Stop Code Run
 + or right click the Output Channel and then click Stop Code Run in the context menu
 ## Preview
-![output](https://i.stack.imgur.com/C05sk.gif)
-
+<!-- [screen-capture (12).webm](https://user-images.githubusercontent.com/123060177/229448007-83744e6e-dd06-458c-b777-0cf50daa1687.webm) -->
+![ezgif com-video-to-gif (7)](https://user-images.githubusercontent.com/123060177/229449583-c1abc6cc-4627-41af-8cd2-6f65c113b941.gif)
 # THANKS
